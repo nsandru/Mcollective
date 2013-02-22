@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # Install and upgrade software packages on selected hosts with mcollective
-# Copyright (c) Nick Sandru <nick@sandesnet.com>
+# Copyright (c) 2013 Nick Sandru <nick@sandesnet.com>
 # License: Creative Commons
 #
 # Actions:
